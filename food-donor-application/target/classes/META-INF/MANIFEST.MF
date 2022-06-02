@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: food-donor-application
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: neeraj kumar v
+Implementation-Vendor-Id: net.guides.springboot2
+Build-Jdk: 1.8.0_321
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/food-donor-application
+Created-By: Maven Integration for Eclipse
+
